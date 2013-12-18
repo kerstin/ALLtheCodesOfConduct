@@ -31,3 +31,8 @@ Current IT topics; following the tradition of Google DevFests.<br>
 2014, August, 25-29<br>
 Findings and experiences in the field of software architecture research and practice.<br>
 
+* **[Rails Girls](http://railsgirls.com/)**, worldwide - **N**<br>
+continuous events [[t]](https://twitter.com/railsgirls)<br>
+Introducing women to programming with Ruby on Rails.<br>
+**Notes:** Rails Girls events do not, by default, have a Code of Conduct, nor do any of the Rails Girls guides recommend putting one in place.
+
