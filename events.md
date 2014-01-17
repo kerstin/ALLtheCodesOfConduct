@@ -54,7 +54,7 @@ Conference on JRuby, Java implementation of the Ruby programming language.<br>
 [Code of Conduct](http://2013.eurucamp.org/policies)<br> 
 **Notes:** redirects to **eurucamp**, whose Code of Conduct it shares.
 
-* **[PyLadies](http://www.pyladies.com/)** [[t]](https://twitter.com/eventtwitter) [[f]](https://www.facebook.com/pyladies) [[g]](https://plus.google.com/communities/108807002736066163985), worldwide - **Y**<br>
+* **[PyLadies](http://www.pyladies.com/)** [[t]](https://twitter.com/pyladies) [[f]](https://www.facebook.com/pyladies) [[g]](https://plus.google.com/communities/108807002736066163985), worldwide - **Y**<br>
 ongoing<br>
 International mentorship group helping women become active in the Python community.<br>
 [Code of Conduct](http://www.pyladies.com/CodeOfConduct/)<br> 
@@ -67,3 +67,7 @@ Introductory workshops to Ruby on Rails for women (without prior programming kno
 * **[Railsberry](http://www.railsberry.com/)** [[t]](http://twitter.com/railsberry) [[f]](http://facebook.com/railsberry), Poland, Krakow - **N**<br>
 ~~2013, April, 22-23~~<br>
 European Rails Conference.<br>
+
+* **[Shmoocon](http://www.shmoocon.org/)** [[t]](https://twitter.com/schmoocon) , United States, Washington DC - **N**<br>
+2014, January, 17-19<br>
+Hacker convention. Focusses on demonstrating technology exploitation, inventive software and hardware solutions and discussions of critical infosec issues.<br>
