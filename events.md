@@ -68,6 +68,6 @@ Introductory workshops to Ruby on Rails for women (without prior programming kno
 ~~2013, April, 22-23~~<br>
 European Rails Conference.<br>
 
-* **[Shmoocon](http://www.shmoocon.org/)** [[t]](https://twitter.com/schmoocon) , United States, Washington DC - **N**<br>
+* **[Shmoocon](http://www.shmoocon.org/)** [[t]](https://twitter.com/shmoocon) , United States, Washington DC - **N**<br>
 2014, January, 17-19<br>
 Hacker convention. Focusses on demonstrating technology exploitation, inventive software and hardware solutions and discussions of critical infosec issues.<br>
