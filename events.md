@@ -19,7 +19,7 @@ Annual hacker conference on (information) technology and society.<br>
 **Notes:** No Code of Conduct as such, though the organisers ask participants to contact the event's volunteers "if someone is misbehaving".
 
 * **[CocoaConf](http://cocoaconf.com/)** [[t]](https://twitter.com/cocoaconf), United States - **N**<br>
-~~ongoing~~<br>
+ongoing<br>
 Conference series with several small events (~100 attendees) each year. Organizer has been open to considering a code of conduct, but has not committed to one.<br>
 
 * **[DeepSec](http://deepsec.net/)**, Austria, Vienna - **Y**<br>
