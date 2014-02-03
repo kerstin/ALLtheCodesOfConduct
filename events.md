@@ -7,9 +7,9 @@
 * **30C3** see **Chaos Communication Congress**
 
 * **[Austria Game Jam](http://austriagamejam.org/)** [[t]](https://twitter.com/austriagamejam), Austria, Vienna - *P*<br>
-2014, January, 24-26<br>
+~~2014, January, 24-26~~<br>
 Game development in small groups within 48 hours.<br>
-[Inclusivity Statement](http://austriagamejam.org/faq#harassment)<br> 
+[Inclusivity Statement](http://austriagamejam.org/faq#harassment)<br>
 **Notes:** no separate page for inclusivity statement; no separate mention of how violations will be treated. A general "we reserve the right to remove people" rule was added after an inquiry via Twitter.
 
 * **[Chaos Communication Congress - CCC](https://events.ccc.de/congress/2013/wiki/Main_Page)** [[t]](https://twitter.com/ccc), Germany, Hamburg - *P*<br>
@@ -31,7 +31,7 @@ Current IT topics; follows the tradition of Google DevFests.<br>
 * **[eurucamp](http://eurucamp.org)** [[t]](https://twitter.com/eurucamp) [[f]](https://www.facebook.com/eurucamp) [[g]](https://plus.google.com/114984140580239329274), Germany, Berlin - **Y**<br>
 ~~2013, August, 16-18~~<br>
 Ruby conference/camp.<br>
-[Code of Conduct](http://2013.eurucamp.org/policies)<br> 
+[Code of Conduct](http://2013.eurucamp.org/policies)<br>
 
 * **[European Conference on Software Architecture - ECSA](http://ecsa2014.cs.univie.ac.at/
 )**, Austria, Vienna - **N**<br>
@@ -51,13 +51,13 @@ Conference on newest trends and techniques with jQuery.<br>
 * **[JRubyConf](http://jrubyconf.eu)** [[t]](https://twitter.com/jrubyconfeu) [[f]](https://www.facebook.com/jrubyconfeu), Germany, Berlin - **Y**<br>
 ~~2013, August, 14-15~~<br>
 Conference on JRuby, Java implementation of the Ruby programming language.<br>
-[Code of Conduct](http://2013.eurucamp.org/policies)<br> 
+[Code of Conduct](http://2013.eurucamp.org/policies)<br>
 **Notes:** redirects to **eurucamp**, whose Code of Conduct it shares.
 
 * **[PyLadies](http://www.pyladies.com/)** [[t]](https://twitter.com/pyladies) [[f]](https://www.facebook.com/pyladies) [[g]](https://plus.google.com/communities/108807002736066163985), worldwide - **Y**<br>
 ongoing<br>
 International mentorship group helping women become active in the Python community.<br>
-[Code of Conduct](http://www.pyladies.com/CodeOfConduct/)<br> 
+[Code of Conduct](http://www.pyladies.com/CodeOfConduct/)<br>
 
 * **[Rails Girls](http://railsgirls.com/)** [[t]](https://twitter.com/railsgirls), worldwide - **N**<br>
 ongoing<br>
@@ -69,5 +69,5 @@ Introductory workshops to Ruby on Rails for women (without prior programming kno
 European Rails Conference.<br>
 
 * **[Shmoocon](http://www.shmoocon.org/)** [[t]](https://twitter.com/shmoocon) , United States, Washington DC - **N**<br>
-2014, January, 17-19<br>
+~~2014, January, 17-19~~<br>
 Hacker convention. Focusses on demonstrating technology exploitation, inventive software and hardware solutions and discussions of critical infosec issues.<br>
