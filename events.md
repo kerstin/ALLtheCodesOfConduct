@@ -20,7 +20,7 @@ Annual hacker conference on (information) technology and society.<br>
 
 * **[CocoaConf](http://cocoaconf.com/)** [[t]](https://twitter.com/cocoaconf), United States - **N**<br>
 ongoing<br>
-Conference series with several small events (~100 attendees) each year. Organizer has been open to considering a code of conduct, but has not committed to one.<br>
+Series of conferences for iOS developers. Several small events (~100 attendees) are held around the US each year. Organizer has been open to considering a code of conduct, but has not committed to one.<br>
 
 * **[DeepSec](http://deepsec.net/)**, Austria, Vienna - **Y**<br>
 ~~2013, November, 19-22<br>~~
