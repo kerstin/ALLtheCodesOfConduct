@@ -52,7 +52,7 @@ Hacker conference.<br>
 2014, February-March, 28-1<br>
 Conference on newest trends and techniques with jQuery.<br>
 
-* **[JRubyConf](http://jrubyconf.eu)** [[t]](https://twitter.com/jrubyconfeu) [[f]](https://www.facebook.com/jrubyconfeu), Germany, Berlin - **Y**<br>
+* **[JRubyConf.eu](http://jrubyconf.eu)** [[t]](https://twitter.com/jrubyconfeu) [[f]](https://www.facebook.com/jrubyconfeu), Germany, Berlin - **Y**<br>
 ~~2013, August, 14-15~~<br>
 Conference on JRuby, Java implementation of the Ruby programming language.<br>
 [Code of Conduct](http://2013.eurucamp.org/policies)<br>
