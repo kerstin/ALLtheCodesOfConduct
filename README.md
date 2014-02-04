@@ -1,4 +1,10 @@
-# About this project
+# Add events
+
+If you would like to **add a tech event**'s Code of Conduct "status" (this project aims to include both events with and without CoCs), please go [here](events.md). Thank you! <3
+
+
+
+# About
 
 I have given the idea of Codes of Conduct and why having them in place at conferences, congresses and other events might be a good thing quite a bit of thought over the past months.
 
@@ -8,6 +14,6 @@ More and more tech events (the kind of events I am most interested in) are putti
 
 So, I decided to start my own collection of tech events with (and without!) Codes of Conduct, which can be contributed to by other members of the community, many of whom, I presume, are more likely to have an account on GitHub already rather than one on the  Geek Feminism Wiki.
 
-You can find the list itself [here](https://github.com/kerstin/ALLtheCodeOfConducts/blob/master/events.md) and the criteria for events to be included [here](https://github.com/kerstin/ALLtheCodeOfConducts/blob/master/criteria.md). For now it is really just a simple, alphabetical list written in Markdown, though it would make a lot of sense to **turn this into something that can be more easily navigated (like a web app!)**. If there were a way to sort by country/geographical region, date or conference topic, for example, this list would be even more useful.
+You can find the list itself [here](events.md) and the criteria for events to be included [here](criteria.md). For now it is really just a simple, alphabetical list written in Markdown, though it would make a lot of sense to **turn this into something that can be more easily navigated (like a web app!)**. If there were a way to sort by country/geographical region, date or conference topic, for example, this list would be even more useful.
 
 If you have an idea on how to build upon this first, very basic list of Codes of Conduct or **if you would like to get actively involved** in creating something bigger out of it (I, personally, would prefer anything Python-based over other languages but I am open to other suggestions), **please let me know**, e.g. by opening an issue.
