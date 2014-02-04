@@ -1,6 +1,6 @@
 # Add events
 
-If you would like to **add a tech event**'s Code of Conduct "status" (this project aims to include both events with and without CoCs), please go [here](events.md). Thank you! <3
+If you would like to **add a tech event**'s Code of Conduct "status" (this project aims to include both events with and without CoCs), please see [this file](events.md). Thank you! <3
 
 
 
