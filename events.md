@@ -18,9 +18,10 @@ Annual hacker conference on (information) technology and society.<br>
 [Safety and Security](https://events.ccc.de/congress/2013/wiki/Static:Safety_and_Security)<br>
 **Notes:** No Code of Conduct as such, though the organisers ask participants to contact the event's volunteers "if someone is misbehaving".
 
-* **[CocoaConf](http://cocoaconf.com/)** [[t]](https://twitter.com/cocoaconf), United States - **N**<br>
+* **[CocoaConf](http://cocoaconf.com/)** [[t]](https://twitter.com/cocoaconf), United States - **Y**<br>
 ongoing<br>
-Series of conferences for iOS developers. Several small events (~100 attendees) are held around the US each year. Organizer has been open to considering a code of conduct, but has not committed to one.<br>
+Series of conferences for iOS developers. Several small events (~100 attendees) are held around the US each year.<br>
+[Code of Conduct](http://cocoaconf.com/code-of-conduct)<br>
 
 * **[DeepSec](http://deepsec.net/)**, Austria, Vienna - **Y**<br>
 ~~2013, November, 19-22<br>~~
