@@ -1,10 +1,12 @@
-# Add events
+# ALL the Codes of Conduct
+
+## Add events
 
 If you would like to **add a tech event**'s Code of Conduct "status" (this project aims to include both events with and without CoCs), please see [this file](events.md). Thank you! <3
 
 
 
-# About
+## About
 
 I have given the idea of Codes of Conduct and why having them in place at conferences, congresses and other events might be a good thing quite a bit of thought over the past months.
 
